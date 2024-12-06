@@ -10,7 +10,7 @@
   
 - <h2> Certification</h2>
    Google Cyber security analyst
-  - 
+
  
 
 [linkedin]: https://linkedin.com/in/joshmadakor
